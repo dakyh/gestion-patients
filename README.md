@@ -30,11 +30,14 @@ python3 patient_manager.py
 
 ```
 --- Gestion des Patients ---
+--- Gestion des Patients ---
 1. Ajouter un patient
 2. Voir un patient
-3. Ajouter une allergie
-4. Diagnostiquer un patient
-5. Quitter
+3. Voir la liste des patients
+4. Ajouter une allergie
+5. Diagnostiquer un patient
+6. Quitter
+
 
 ```
 

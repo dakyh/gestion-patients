@@ -165,7 +165,6 @@ patient-manager/
 - Ajouter la modification/suppression de patients
 - Générer des IDs uniques (UUID)
 - Ajouter des tests unitaires
-- Calculer l'âge automatiquement
 - Exporter en PDF
 - Interface graphique
 

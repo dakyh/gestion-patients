@@ -1,0 +1,37 @@
+{
+  "1": {
+    "nom": "khady DIAGNE",
+    "ddn": "2000-04-27",
+    "allergies": ["lumiére"],
+    "diagnostics": []
+  },
+  "2": {
+    "nom": "Fambaye DIAGNE",
+    "ddn": "2001-11-01",
+    "allergies": ["RHUME", "sucre"],
+    "diagnostics": [
+      {
+        "code": "J06.9",
+        "description": "Infection des voies respiratoires supérieures"
+      },
+      {
+        "code": "J45.0",
+        "description": "Asthme à prédominance allergique"
+      },
+      {
+        "code": "E11.9",
+        "description": "Diabète sucré de type 2, sans complication"
+      },
+      {
+        "code": "E11.9",
+        "description": "Diabète sucré de type 2, sans complication"
+      }
+    ]
+  },
+  "3": {
+    "nom": "Abou DIAGNE",
+    "ddn": "1960-02-01",
+    "allergies": [],
+    "diagnostics": []
+  }
+}
